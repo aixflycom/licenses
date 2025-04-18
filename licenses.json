@@ -1,4 +1,20 @@
-{
-  "premium": ["PREMIUM_1234-5678-9012-3456", "PREMIUM_ABCD-EFGH-IJKL-MNOP"],
-  "professional": ["PRO_9876-5432-1098-7654", "PRO_WXYZ-1234-5678-90AB"]
-}
+[
+    {
+        "license_key": "A1B2-C3D4-E5F6-G7H8",
+        "email": "user1@example.com",
+        "expiry_date": "2024-12-31",
+        "hash": "a591a6d40bf420404a011733cfb7b190d62c65bf0bcda32b57b277d9ad9f146e"
+    },
+    {
+        "license_key": "I9J0-K1L2-M3N4-O5P6",
+        "email": "user2@example.com",
+        "expiry_date": "2025-06-30",
+        "hash": "5f70bf18a086007016e948b04aed3b82103a36bea41755b6cddfaf10ace3c6ef"
+    },
+    {
+        "license_key": "Q7R8-S9T0-U1V2-W3X4",
+        "email": "premium@example.com",
+        "expiry_date": "2026-01-01",
+        "hash": "2c624232cdd221771294dfbb310aca000a0df6ac8b66b696d90ef06fdefb64a3"
+    }
+]
